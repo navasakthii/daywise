@@ -1,0 +1,13 @@
+.location{
+  color:red ;  
+}
+
+.clone{
+    color: brown;
+}
+.location h1{ 
+    border: 2px;
+    padding-left: 32px;
+    padding-top: 30px;
+
+}
